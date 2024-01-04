@@ -107,10 +107,10 @@
   <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="trungquandev-official" />
 </a>
 
-<br>
+<!-- <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
-</a>
+</a> -->
 
