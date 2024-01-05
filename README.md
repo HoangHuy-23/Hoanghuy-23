@@ -28,6 +28,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Microsoftsqlserver-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="Microsoft Sql Sever logo" title="MicrosoftSqlSever" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Pandas-282C34?logo=pandas&logoColor=150458" alt="Pandas logo" title="pandas" height="25" /></span>
+&nbsp;
 <!-- <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
@@ -45,6 +47,10 @@
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Eclipseide-282C34?logo=eclipseide&logoColor=2C2255" alt="Eclipseide logo" title="Eclipseide" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" /></span>
 &nbsp;
 <!-- <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
