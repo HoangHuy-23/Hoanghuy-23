@@ -26,7 +26,7 @@
 &nbsp; -->
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MicrosoftSQLSever-282C34?logo=microsoftsqlsever&logoColor=CC2927" alt="Microsoft Sql Sever logo" title="MicrosoftSqlSever" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Microsoftsqlserver-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="Microsoft Sql Sever logo" title="MicrosoftSqlSever" height="25" /></span>
 &nbsp;
 <!-- <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
@@ -56,11 +56,11 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Trungquandev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <a href="#" title="HiHoanghuy">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiHoanghuy&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Trungquandev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <a href="#" title="HiHoanghuy">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=HiHoanghuy&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
@@ -69,27 +69,24 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://trungquandev.com" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
+  <a href="https://www.facebook.com/profile.php?id=100015249346558&mibextid=LQQJ4d" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hihoanghuy-facebook" />
   </a>
-  <a href="https://facebook.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+  <!-- <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="hihoanghuy-youtube" />
+  </a> -->
+  <!-- <a href="https://www.linkedin.com/in/trungquandev" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="hihoanghuy-linkedin" />
+  </a> -->
+  <a href="https://www.instagram.com/ng.hoang.huyy/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="hihoanghuy-instagram" />
   </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
-  </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
-  </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
-  </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  <a href="mailto:hh.glorious@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="hihoanghuy-email" />
   </a>
 </div>
 
-<br>
+<!-- <br>
 
 <h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
 <br>
@@ -109,12 +106,12 @@
 </p>
 <a href="https://youtu.be/63opfUkPq6k" target="_blank">
   <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="trungquandev-official" />
-</a>
+</a> 
 
-<!-- <br>
+
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
 </a> -->
-
+ -->
