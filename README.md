@@ -1,7 +1,3 @@
-<!-- HiHoanghuy -->
-<a href="#" target="_blank">
-  <img src="svg/test.svg" width="1200" alt="" />
-</a>
 
 <h1 align="center">Hi 👋, I'm HoangHuy</h1>
 <h3 align="center">A passionate web developer from Vietnam</h3>
